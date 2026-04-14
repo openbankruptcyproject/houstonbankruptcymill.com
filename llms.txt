@@ -5,11 +5,12 @@
 houstonbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Houston Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://houstonbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Houston: Red Flags and What to Watch For: https://houstonbankruptcymill.com/chapter-13-houston.html
 - Chapter 7 Bankruptcy in Houston: Costs, Timeline and What to Know: https://houstonbankruptcymill.com/chapter-7-houston.html
 - How to Check Your Houston Bankruptcy Attorney's Track Record: https://houstonbankruptcymill.com/how-to-check.html
+- Houston Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://houstonbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Houston: https://houstonbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://houstonbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
